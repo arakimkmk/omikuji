@@ -9,6 +9,6 @@ fortunes = [
     "半吉",
 ]
 
-print("今日の運勢は…")
+print("さぁ、運命の時間です。")
 print(random.choice(fortunes))
 print("ラッキーアイテム:ちんこ" + random.choice(["赤","青","金","ピンク"]))
