@@ -9,4 +9,4 @@ fortunes = [
 
 print("今日の運勢は…")
 print(random.choice(fortunes))
-print("ラッキーアイテム:ちんこ")
+print("ラッキーアイテム:ちんこ" + random.choice(["赤","青","金"]))
